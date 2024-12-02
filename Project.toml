@@ -1,0 +1,10 @@
+name = "aoc2024"
+uuid = "5dce11da-d526-4f2d-b7fa-ee2ab0d97051"
+version = "0.1.0"
+authors = ["George9000"]
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+Chain = "8be319e6-bccf-4806-a6f7-6fae938471bc"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DataPipes = "02685ad9-2d12-40c3-9f73-c6aeda6a7ff5"
